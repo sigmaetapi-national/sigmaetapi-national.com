@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/sigmaetapi-national",
   siteMetadata: {
     title: `Sigma Eta Pi`,
     description: `The co-ed entrepreneurship fraternity`,
